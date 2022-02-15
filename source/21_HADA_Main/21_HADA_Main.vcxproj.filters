@@ -14,4 +14,83 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\include\Common.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\ERP42.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\ExternVariable.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\Filter.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\Flag.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\function.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\GlobalGuidance.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\include.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\LocalGuidance.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\memwrite.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\Parking.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\RS232.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\TimeCheck.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\include\UDP.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\include\ERP42.c">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\include\filter.c">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\include\Flag.c">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\include\GlobalGuidance.c">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\include\LocalGuidance.c">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\include\memwrite.c">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\include\Parking.c">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\include\RS232.c">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\include\TimeCheck.c">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\include\UDP.c">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="main.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>

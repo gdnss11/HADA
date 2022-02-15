@@ -1,6 +1,7 @@
 #include "include.h"
 #include "function.h"
 
+double test = 1.0;
 double task1, task2;
 extern double  yaw;
 extern int CHOOSE_PARKING_IDX;
